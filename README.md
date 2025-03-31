@@ -19,6 +19,11 @@ PinChat is a lightweight Chrome extension that allows you to save and organize y
 ```
 
 ## 🚀 Installation Guide
+**Download from drive(zip file)**:
+```sh
+https://drive.google.com/file/d/1KAEbyeuXVy_eHChvGpaKjU1h8EztUY2s/view?usp=sharing
+```
+
 1. **Download or Clone** this repository:
    ```sh
    git clone https://github.com/your-username/PinChat.git

@@ -49,7 +49,7 @@ This extension requires:
 - Sync bookmarks across devices.
 
 ## 📷 Screenshot
-![PinChat UI](icon.png)
+![PinChat UI](Screenshot from 2025-03-31 09-59-33.png)
 
 ---
 
